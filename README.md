@@ -1,1 +1,1 @@
-# Face-recognition-using-PCA
+# Face-recognition
